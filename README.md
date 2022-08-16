@@ -4,7 +4,7 @@
 
 <p align="left"> <br><br> </p>
 
-- 🌱 I’m currently learning **BACKEND WEB DEVELOPMENT**
+- 🌱 I’m currently learning **DATA STRUCTURES AND ALGORITHMS**
 
 - 👨‍💻 All of my projects are available at [https://nitesh-147.github.io/Personal-portfolio/](https://nitesh-147.github.io/Personal-portfolio/)
 
