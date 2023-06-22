@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nitesh</h1>
-<h3 align="center">A passionate Computer Programmer from Nepal 🇳🇵🇳🇵</h3>
-<!-- <img src="https://c8.alamy.com/comp/2F604N7/cartoon-of-a-cute-happy-computer-programmer-in-his-office-this-illustration-is-part-of-a-collection-of-different-professions-2F604N7.jpg "></img> -->
+<!-- <h3 align="center">A passionate Computer Programmer from Nepal 🇳🇵🇳🇵</h3> -->
+<img src="https://c8.alamy.com/comp/2F604N7/cartoon-of-a-cute-happy-computer-programmer-in-his-office-this-illustration-is-part-of-a-collection-of-different-professions-2F604N7.jpg "></img>
 
 <p align="left"> <br><br> </p>
 
