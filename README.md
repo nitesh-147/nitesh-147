@@ -1,4 +1,4 @@
-## <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px">Hello, Do you want to know about Nitesh ? Read Below 
+## <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px">Hello, I am Nitesh. Know More about me...> Read Below 
 Nitesh is a Final year student pursuing Bachelor of Technology in Computer Science and Engineering. 
 He has good knowledge of Frontend Development 
 and currently learning JavaScript Framework (ReactJS). 
