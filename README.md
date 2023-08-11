@@ -1,37 +1,107 @@
-<h1 align="center">Hi 👋, I'm Nitesh</h1>
-<!-- <h3 align="center">A passionate Computer Programmer from Nepal 🇳🇵🇳🇵</h3> -->
-<!-- <img src="https://c8.alamy.com/comp/2F604N7/cartoon-of-a-cute-happy-computer-programmer-in-his-office-this-illustration-is-part-of-a-collection-of-different-professions-2F604N7.jpg "></img> -->
+## <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px">Hello, Do you want to know about Nitesh ? Read Below 
+Nitesh is a Final year student pursuing Bachelor of Technology in Computer Science and Engineering. 
+He has good knowledge of Frontend Development 
+and currently learning JavaScript Framework (ReactJS). 
+He loves programming in C++ and JavaScript.
+He has good knowledge of Data Structures and Algorithms.
+He loves exploring and learning new technologies.
 
-<p align="left"> <br><br> </p>
+## Check out some of my projects below
 
-- 🌱 I’m currently learning **DATA STRUCTURES AND ALGORITHMS**
+# Projects
+- Eat and Split
+<!--https://github.com/surazkarn/Airline-Management-System-->
 
-- 👨‍💻 All of my projects are available at [https://nitesh-147.github.io/Personal-portfolio/](https://nitesh-147.github.io/Personal-portfolio/)
+- Travel List
 
-- 💬 Ask me about **PROBLEM SOLVING**
 
-- 📫 How to reach me **niteshkumarmehta364@gmail.com**
+- Menu App : 
 
-- ⚡ Fun fact **I am not funny😂**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/niteshkr_147" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="niteshkr_147" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/niteshkrmehta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/niteshkrmehta/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/nitesh.mehta.77964201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/nitesh.mehta.77964201/" height="30" width="40" /></a>
-<a href="https://instagram.com/niteshmehta07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="niteshmehta07" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/nitesh_147nkr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="nitesh_147nkr" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/niteshkumarmeht1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/niteshkumarmeht1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nitesh1741/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/nkr_147/" height="30" width="40" /></a>
+- SGPA Calculator
+
+
+# 💻 Tech Stacks in which Nitesh works on :
+- Javascript
+- ReactJs
+- SQL
+- C
+- C++
+- JAVA
+- Python
+- HTML
+- CSS
+- Bootstrap
+
+# 📊 GitHub Stats:
+<!---![](https://github-readme-stats.vercel.app/api?username=nitesh-147&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>--->
+![](https://github-readme-streak-stats.herokuapp.com/?user=nitesh-147&theme=dark&hide_border=true)<br/>
+
+## Connect with SURAJ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niteshkrmehta/)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=blue)](mailto:niteshmehta1741@gmail.com) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black)](mailto:niteshmehta1741@gmail.com)
+
+ #  ---------------------✨Happy Learning Life✨-----------------
+
+<!---
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/surazkarn/count.svg" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitesh-147&show_icons=true&locale=en&layout=compact" alt="nitesh-147" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nitesh-147&" alt="nitesh-147" /></p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=surazkarn&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
-I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)
+ [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/surazkarn8v)
 
+
+[![Suraj's github activity graph](https://activity-graph.herokuapp.com/graph?username=surazkarn&theme=github-light&area=true&hide_border=true)](https://github.com/surazkarn/github-readme-activity-graph)
+
+
+[![](https://visitcount.itsvg.in/api?id=surazkarn&icon=9&color=3)(https://visitcount.itsvg.in)]
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surazkarn&theme=github-light&area=true&hide_border=true)
+
+![Suraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=surazkarn&show_icons=true&theme=github-light&area=true&hide_border=true)
+
+<p><br/></p>
+
+# My Social media handle:
+
+<a href="https://www.facebook.com/imsurazkarn/"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/2021_Facebook_icon.svg" width="42" height="42"></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/surazkarn"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" width="42" height="42"></a>
+&nbsp;&nbsp;&nbsp;
+
+
+ # Hey, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Suraz!
+
+surazkarn/surazkarn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+
+ ![Profile views](https://gpvc.arturio.dev/surazkarn)
+<p><br/></p>
+![GitHub metrics](https://metrics.lecoq.io/surazkarn)  
+
+
+[![Suraj's github activity graph](https://activity-graph.herokuapp.com/graph?username=surazkarn&theme=github-light&area=true&hide_border=true)](https://github.com/surazkarn/github-readme-activity-graph)
+
+<img height="300" alt="Github" src="https://c.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.gif" style="max-width:100%;">
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surazkarn&theme=github-light&area=true&hide_border=true)](https://github.com/surazkarn/github-readme-stats)[<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=surazkarn&theme=github-light&area=true&hide_border=true">](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+![Suraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=surazkarn&show_icons=true&theme=github-light&area=true&hide_border=true)
+
+[<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=surazkarn&theme=github-light&area=true&hide_border=true">](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+![Suraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=surazkarn&show_icons=true&theme=github-light&area=true&hide_border=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surazkarn&layout=compact)](https://github.com/surazkarn/github-readme-stats)
+<h3 align="left">My Loved Languages</h3>
+
+<a href="https://app.daily.dev/suraz_devlover"><img src="https://api.daily.dev/devcards/1ee2bf8a6e3e4d06a9b93c68f951e3bc.png?r=anf" width="400" alt="Suraj Kumar Karn's Dev Card"/></a>!
+
+ <p align="left"><a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a><p></p>
+
+--->
