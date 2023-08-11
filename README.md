@@ -3,12 +3,12 @@ Nitesh is a Final year student pursuing Bachelor of Technology in Computer Scien
 He has good knowledge of Frontend Development 
 and currently learning JavaScript Framework (ReactJS). 
 He loves programming in C++ and JavaScript.
-He has good knowledge of Data Structures and Algorithms.
+He has good knowledge of Data Structures and Algorithms 🧑‍🏫.
 He loves exploring and learning new technologies.
 
 ## Check out some of my projects below
 
-# Projects
+# 📽️Projects
 - Eat and Split
 <!--https://github.com/surazkarn/Airline-Management-System-->
 
@@ -21,7 +21,7 @@ He loves exploring and learning new technologies.
 - SGPA Calculator
 
 
-# 💻 Tech Stacks in which Nitesh works on :
+# 🧑‍💻⚙️ Tech Stacks in which Nitesh works on :
 - Javascript
 - ReactJs
 - SQL
@@ -33,11 +33,11 @@ He loves exploring and learning new technologies.
 - CSS
 - Bootstrap
 
-# 📊 GitHub Stats:
+# 🗽 GitHub Stats:
 <!---![](https://github-readme-stats.vercel.app/api?username=nitesh-147&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>--->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nitesh-147&theme=dark&hide_border=true)<br/>
 
-## Connect with SURAJ 
+## Connect with Nitesh💖 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niteshkrmehta/)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=blue)](mailto:niteshmehta1741@gmail.com) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black)](mailto:niteshmehta1741@gmail.com)
 
  #  ---------------------✨Happy Learning Life✨-----------------
