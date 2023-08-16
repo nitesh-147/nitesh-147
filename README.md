@@ -1,3 +1,5 @@
+[![](https://visitcount.itsvg.in/api?id=nitesh-147&icon=7&color=11)](https://visitcount.itsvg.in)
+
 ## <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px">Hello, I am Nitesh. Know More about me...> Read Below 
 Nitesh is a Final year student pursuing Bachelor of Technology in Computer Science and Engineering. 
 He has good knowledge of Frontend Development 
@@ -33,12 +35,23 @@ He loves exploring and learning new technologies.
 - CSS
 - Bootstrap
 
-# 🗽 GitHub Stats:
-<!---![](https://github-readme-stats.vercel.app/api?username=nitesh-147&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>--->
-![](https://github-readme-streak-stats.herokuapp.com/?user=nitesh-147&theme=dark&hide_border=true)<br/>
 
 ## Connect with Nitesh💖 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niteshkrmehta/)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=blue)](mailto:niteshmehta1741@gmail.com) 
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=nitesh-147&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=nitesh-147&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nitesh-147&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=nitesh-147&theme=chalk&no-frame=false&no-bg=false&margin-w=4)
+
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
+
+
 
  #  ---------------------✨Happy Learning Life✨-----------------
 
