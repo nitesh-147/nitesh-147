@@ -38,7 +38,7 @@ He loves exploring and learning new technologies.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nitesh-147&theme=dark&hide_border=true)<br/>
 
 ## Connect with Nitesh💖 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niteshkrmehta/)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=blue)](mailto:niteshmehta1741@gmail.com) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black)](mailto:niteshmehta1741@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niteshkrmehta/)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=blue)](mailto:niteshmehta1741@gmail.com) 
 
  #  ---------------------✨Happy Learning Life✨-----------------
 
