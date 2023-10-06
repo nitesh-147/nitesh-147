@@ -12,7 +12,6 @@ He loves exploring and learning new technologies.
 
 # 📽️Projects
 - Eat and Split
-<!--https://github.com/surazkarn/Airline-Management-System-->
 
 - Travel List
 
@@ -25,10 +24,15 @@ He loves exploring and learning new technologies.
 
 # 🧑‍💻⚙️ Tech Stacks in which Nitesh works on :
 - Javascript
-- ReactJs
+- TypeScript
+- React Js
+- Angular JS
 - SQL
+- MongoDB
 - C
 - C++
+- C#
+- .Net
 - JAVA
 - Python
 - HTML
