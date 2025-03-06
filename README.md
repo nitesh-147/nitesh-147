@@ -1,124 +1,69 @@
-[![](https://visitcount.itsvg.in/api?id=nitesh-147&icon=7&color=11)](https://visitcount.itsvg.in)
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=435&lines=Hi+👋+I'm+Nitesh;A+Passionate+Developer;Welcome+to+my+Profile!" alt="Typing SVG" />
+</div>
 
-## <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px">Hello, I am Nitesh. Know More about me...> Read Below 
-Nitesh is a Final year student pursuing Bachelor of Technology in Computer Science and Engineering. 
-He has good knowledge of Frontend Development 
-and currently learning JavaScript Framework (ReactJS). 
-He loves programming in C++ and JavaScript.
-He has good knowledge of Data Structures and Algorithms 🧑‍🏫.
-He loves exploring and learning new technologies.
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-## Check out some of my projects below
+## 🚀 About Me
+- 🎓 Final year B.Tech student in Computer Science and Engineering
+- 💻 Frontend Developer specializing in ReactJS
+- 🌱 Currently mastering JavaScript and its frameworks
+- 💡 Passionate about Data Structures and Algorithms
+- 🔍 Always exploring new technologies
 
-# 📽️Projects
-- Eat and Split
+## 🛠️ Tech Arsenal
+<div align="center">
+  
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
-- Travel List
+</div>
 
+## 🎯 Featured Projects
+<div align="center">
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nitesh-147&repo=eat-and-split&theme=radical"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nitesh-147&repo=travel-list&theme=radical"></a>
+</div>
 
-- Menu App : 
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nitesh-147&theme=radical&hide_border=true" alt="streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nitesh-147&show_icons=true&theme=radical&hide_border=true" alt="stats"/>
+</div>
 
-
-- SGPA Calculator
-
-
-# 🧑‍💻⚙️ Tech Stacks in which Nitesh works on :
-- Javascript
-- TypeScript
-- React Js
-- Angular JS
-- SQL
-- MongoDB
-- C
-- C++
-- C#
-- .Net
-- JAVA
-- Python
-- HTML
-- CSS
-- Bootstrap
-
-
-## Connect with Nitesh💖 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niteshkrmehta/)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=blue)](mailto:niteshmehta1741@gmail.com) 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nitesh-147&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=nitesh-147&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nitesh-147&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitesh-147&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="languages"/>
+</div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nitesh-147&theme=chalk&no-frame=false&no-bg=false&margin-w=4)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nitesh-147&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="trophies"/>
+</div>
 
+## 🤝 Connect With Me
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niteshkrmehta/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:niteshmehta1741@gmail.com)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
+</div>
 
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</div>
 
+<div align="center">
+  
+  ![Visitors](https://visitcount.itsvg.in/api?id=nitesh-147&icon=7&color=11)
+  
+</div>
 
- #  ---------------------✨Happy Learning Life✨-----------------
-
-<!---
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/surazkarn/count.svg" />
-</p>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=surazkarn&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-
- [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/surazkarn8v)
-
-
-[![Suraj's github activity graph](https://activity-graph.herokuapp.com/graph?username=surazkarn&theme=github-light&area=true&hide_border=true)](https://github.com/surazkarn/github-readme-activity-graph)
-
-
-[![](https://visitcount.itsvg.in/api?id=surazkarn&icon=9&color=3)(https://visitcount.itsvg.in)]
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surazkarn&theme=github-light&area=true&hide_border=true)
-
-![Suraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=surazkarn&show_icons=true&theme=github-light&area=true&hide_border=true)
-
-<p><br/></p>
-
-# My Social media handle:
-
-<a href="https://www.facebook.com/imsurazkarn/"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/2021_Facebook_icon.svg" width="42" height="42"></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/surazkarn"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" width="42" height="42"></a>
-&nbsp;&nbsp;&nbsp;
-
-
- # Hey, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Suraz!
-
-surazkarn/surazkarn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-
- ![Profile views](https://gpvc.arturio.dev/surazkarn)
-<p><br/></p>
-![GitHub metrics](https://metrics.lecoq.io/surazkarn)  
-
-
-[![Suraj's github activity graph](https://activity-graph.herokuapp.com/graph?username=surazkarn&theme=github-light&area=true&hide_border=true)](https://github.com/surazkarn/github-readme-activity-graph)
-
-<img height="300" alt="Github" src="https://c.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.gif" style="max-width:100%;">
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surazkarn&theme=github-light&area=true&hide_border=true)](https://github.com/surazkarn/github-readme-stats)[<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=surazkarn&theme=github-light&area=true&hide_border=true">](https://github.com/DenverCoder1/github-readme-streak-stats)
-
-![Suraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=surazkarn&show_icons=true&theme=github-light&area=true&hide_border=true)
-
-[<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=surazkarn&theme=github-light&area=true&hide_border=true">](https://github.com/DenverCoder1/github-readme-streak-stats)
-
-![Suraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=surazkarn&show_icons=true&theme=github-light&area=true&hide_border=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surazkarn&layout=compact)](https://github.com/surazkarn/github-readme-stats)
-<h3 align="left">My Loved Languages</h3>
-
-<a href="https://app.daily.dev/suraz_devlover"><img src="https://api.daily.dev/devcards/1ee2bf8a6e3e4d06a9b93c68f951e3bc.png?r=anf" width="400" alt="Suraj Kumar Karn's Dev Card"/></a>!
-
- <p align="left"><a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a><p></p>
-
---->
+#  ✨ Happy Coding! ✨
