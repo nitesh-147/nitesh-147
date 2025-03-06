@@ -29,7 +29,7 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nitesh-147&theme=radical&hide_border=true" alt="streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nitesh-147&theme=radical&hide_border=true" alt="streak"/>
   <img src="https://github-readme-stats.vercel.app/api?username=nitesh-147&show_icons=true&theme=radical&hide_border=true" alt="stats"/>
 </div>
 
@@ -56,7 +56,7 @@
 
 <div align="center">
   
-  ![Visitors](https://visitcount.itsvg.in/api?id=nitesh-147&icon=7&color=11)
+[![](https://visitcount.itsvg.in/api?id=nitesh-147&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
   
 </div>
 
