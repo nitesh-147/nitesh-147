@@ -27,12 +27,6 @@
 
 </div>
 
-## 🎯 Featured Projects
-<div align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nitesh-147&repo=eat-and-split&theme=radical"></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nitesh-147&repo=travel-list&theme=radical"></a>
-</div>
-
 ## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nitesh-147&theme=radical&hide_border=true" alt="streak"/>
