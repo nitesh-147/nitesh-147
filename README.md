@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=435&lines=Hi+👋+I'm+Nitesh;A+Passionate+Developer;Welcome+to+my+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I%27m+Nitesh;A+Passionate+Developer;Welcome+to+my+Profile!" alt="Typing SVG" />
 </div>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
@@ -25,12 +25,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
-</div>
-
-## 🎯 Featured Projects
-<div align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nitesh-147&repo=eat-and-split&theme=radical"></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nitesh-147&repo=travel-list&theme=radical"></a>
 </div>
 
 ## 📊 GitHub Stats
